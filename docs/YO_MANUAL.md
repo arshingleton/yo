@@ -1,5 +1,5 @@
 # YO MANUAL
-**Version:** v0.3.1  
+**Version:** v0.1  
 **Status:** Local-first programmable environment
 
 ---
