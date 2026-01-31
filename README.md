@@ -1,4 +1,4 @@
-# yo v0.1
+# yo ✌️
 
 Highlights:
 - Filesystem-native control: `yo ls`, `yo cat`, **`yo write`**
