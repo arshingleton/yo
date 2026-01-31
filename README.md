@@ -1,5 +1,10 @@
 # yo ✌️
 
+yo is a local-first, shell-native system that lets you explore, control, and automate the physical and digital world as a filesystem.
+
+If you can `ls`, `cat`, and `write`, you can use yo. Devices, data, chat, web pages, and automation all appear as paths you can inspect, modify, and subscribe to — with no cloud, no UI, and no configuration required to get started.
+
+
 Highlights:
 - Filesystem-native control: `yo ls`, `yo cat`, **`yo write`**
 - Auto-connect: `yo discover` caches hub in `~/.yo/config.json`
